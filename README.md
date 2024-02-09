@@ -12,12 +12,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for Python
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f0db4f)
-![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=e34c26)
-![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=A22846)
-![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
 
 ## 📫 How to reach me
 - **Email**: adrianrosten@gmail.com (put the letter sequence "AE72" anywhere in your mail so my program picks it up and I quickly see it.)
