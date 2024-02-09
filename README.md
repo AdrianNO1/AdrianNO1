@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, I'm Adrian Røstenskar! 👋
 
-<!--
-**AdrianNO1/AdrianNO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a knack for Python, JavaScript, and diving into the depths of full-stack development with Next.js and React.
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- **Next.js**: Enhancing my skills in server-side rendering and static site generation for React applications.
+- **React**: Deepening my understanding of component-based architecture and state management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Some of my projects
+- **Aquarium Controller**: A comprehensive system designed to automate aquarium care. Utilizing Arduino for hardware control and a Raspberry Pi as the server, this project features a web interface where users can adjust lighting intensity through an interactive graph. I am still working on this program to add more features and fix bugs.
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f0db4f)
+![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=e34c26)
+![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=A22846)
+![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
+
+## 📫 How to reach me
+- **Email**: adrianrosten@gmail.com (put the letter sequence "AE72" anywhere in your mail so my program picks it up and I quickly see it.)
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun fact
+I may or may not have put a virus in your computer.
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianNO1&show_icons=true&theme=radical)
