@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for Python
 ## 🌱 I’m currently learning
 - **Next.js**: Enhancing my skills in server-side rendering and static site generation for React applications.
 - **React**: Deepening my understanding of component-based architecture and state management.
+- **Typescript**: Because static typing makes it easier to find bugs and issues.
 
 ## 💻 Some of my projects
 - **Aquarium Controller**: A comprehensive system designed to automate aquarium care. Utilizing Arduino for hardware control and a Raspberry Pi as the server, this project features a web interface where users can adjust lighting intensity through an interactive graph. I am still working on this program to add more features and fix bugs.
@@ -14,6 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for Python
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f0db4f)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=A22846)
 
 ## 📫 How to reach me
