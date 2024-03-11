@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for Python
 ## 🌱 I’m currently learning
 - **Next.js**: Enhancing my skills in server-side rendering and static site generation for React applications.
 - **React**: Deepening my understanding of component-based architecture and state management.
-- **Typescript**: Because static typing makes it easier to find bugs and issues.
 
 ## 💻 Some of my projects
 - **Aquarium Controller**: A comprehensive system designed to automate aquarium care. Utilizing Arduino for hardware control and a Raspberry Pi as the server, this project features a web interface where users can adjust lighting intensity through an interactive graph. I am still working on this program to add more features and fix bugs.
