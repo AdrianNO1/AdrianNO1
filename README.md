@@ -7,7 +7,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for Python
 - **React**: Deepening my understanding of component-based architecture and state management.
 
 ## 💻 Some of my projects
-- **Aquarium Controller**: A comprehensive system designed to automate aquarium care. Utilizing Arduino for hardware control and a Raspberry Pi as the server, this project features a web interface where users can adjust lighting intensity through an interactive graph. I am still working on this program to add more features and fix bugs.
+- **Aquarium Controller**: A comprehensive system designed to automate aquarium care. Utilizing Arduino for hardware control and a Raspberry Pi as the server, this project features a web interface where users can adjust lighting intensity through an interactive graph.
+- **EvenBetterGPT**: Provides a powerful and flexible interface for interacting with AI models, offering features that cater to both casual users and power users alike. With its non-linear chat functionality, comprehensive settings, and cost tracking, it's an ideal tool for anyone looking to leverage the capabilities of large language models in a user-friendly environment.
+- **DailyStatus**: Shows daily information for your morning. Add custom events and utilize web scrapers to keep up-to-date on the latest news
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -18,12 +20,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for Python
 
 ## 📫 How to reach me
 - **Email**: adrianrosten@gmail.com (put the letter sequence "AE72" anywhere in your mail so my program picks it up and I quickly see it.)
-
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun fact
-I may or may not have put a virus on your computer.
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianNO1&show_icons=true&theme=radical)
